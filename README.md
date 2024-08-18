@@ -52,11 +52,5 @@ The **SwissQRBill-Generator** is a PHP-based application designed to generate Sw
 
 - **mpdf/mpdf** (version ^6.1): A PHP library that provides a simple way to create PDF files from HTML and CSS.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Contact
-For any questions or suggestions, please contact [Your Name](mailto:your.email@example.com).
